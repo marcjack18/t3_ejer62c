@@ -13,6 +13,7 @@ import java.util.regex.*;
  */
 public class T3_ejer62c {
 
+//buenas
 	
 	public static int suma(int num1,int num2) {
 		return num1+num2;
